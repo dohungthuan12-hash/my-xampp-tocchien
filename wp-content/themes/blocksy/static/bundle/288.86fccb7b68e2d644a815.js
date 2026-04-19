@@ -1,0 +1,1 @@
+"use strict";(globalThis.blocksyJsonP=globalThis.blocksyJsonP||[]).push([[288],{8288:function(t,o,c){c.r(o),c.d(o,{mount:function(){return n}});let e=null;const n=function(t,o){let{event:c}=o;t.closest(".ct-cart-auto-update")&&(e&&clearTimeout(e),e=setTimeout(function(){const t=document.querySelector("[name='update_cart']");t&&t.click()},300))}}}]);
